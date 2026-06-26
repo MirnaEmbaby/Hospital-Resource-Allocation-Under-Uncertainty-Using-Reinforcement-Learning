@@ -1,0 +1,8 @@
+{
+  "label": "low_lr",
+  "lr": 0.0001,
+  "n_steps": 512,
+  "scale_reward": false,
+  "seed": 200,
+  "timesteps": 200000
+}

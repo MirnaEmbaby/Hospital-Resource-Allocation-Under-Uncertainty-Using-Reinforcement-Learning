@@ -1,0 +1,6 @@
+{
+  "exp_id": "A2f",
+  "algo_name": "DQN",
+  "seed": 123,
+  "timesteps": 200000
+}

@@ -1,0 +1,7 @@
+{
+  "algo_name": "A2C",
+  "seed": 42,
+  "label": "A2C_multiseed",
+  "exp_id": "A2C_multiseed",
+  "timesteps": 200000
+}

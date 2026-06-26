@@ -1,0 +1,7 @@
+{
+  "algo_name": "DQN",
+  "seed": 123,
+  "label": "DQN_multiseed",
+  "exp_id": "DQN_multiseed",
+  "timesteps": 200000
+}

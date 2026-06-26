@@ -1,0 +1,7 @@
+{
+  "algo_name": "PPO",
+  "seed": 123,
+  "label": "PPO_multiseed",
+  "exp_id": "PPO_multiseed",
+  "timesteps": 200000
+}

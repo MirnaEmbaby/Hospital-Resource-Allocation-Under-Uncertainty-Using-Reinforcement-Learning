@@ -1,0 +1,8 @@
+{
+  "label": "long_rollout",
+  "lr": 0.0007,
+  "n_steps": 1024,
+  "scale_reward": false,
+  "seed": 300,
+  "timesteps": 200000
+}
