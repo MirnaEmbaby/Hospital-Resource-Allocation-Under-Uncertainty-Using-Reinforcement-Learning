@@ -1,0 +1,6 @@
+{
+  "algo_name": "PPO",
+  "overflow_penalty": 1.0,
+  "exp_id": "Hsweep_pen1",
+  "timesteps": 200000
+}

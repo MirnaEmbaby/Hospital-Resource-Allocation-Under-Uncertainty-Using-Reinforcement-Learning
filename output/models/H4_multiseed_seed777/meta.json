@@ -1,0 +1,7 @@
+{
+  "algo_name": "PPO",
+  "seed": 777,
+  "label": "H4_multiseed",
+  "exp_id": "H4_multiseed",
+  "timesteps": 200000
+}
