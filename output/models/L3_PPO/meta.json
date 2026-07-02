@@ -1,0 +1,6 @@
+{
+  "exp_id": "L3_PPO",
+  "algo_name": "PPO",
+  "seed": 42,
+  "timesteps": 200000
+}
